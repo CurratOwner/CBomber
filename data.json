@@ -1,0 +1,27 @@
+{
+    "advertising": {
+        "active": true,
+        "activeUnmissable": true,
+        "button": {
+            "_": "Подписаться"
+        },
+        "html": true,
+        "description": {
+            "_": "Currat — Проект имеющий будущее"
+        },
+        "image": "",
+        "url": "https://t.me/Currat2O25",
+        "seconds": 3
+    },
+    "config": {
+        "repeatsVisible": true,
+        "donateAvailable": false,
+        "sourceCodeAvailable": false,
+        "donateUrl": "",
+        "dripAttackPercentage": 25,
+        "dripAttackTTL": 5,
+        "forceSnowfall": false,
+        "enableSnowfall": true,
+        "siteBaselineStoriesVersionCode": 122
+    },      
+}
